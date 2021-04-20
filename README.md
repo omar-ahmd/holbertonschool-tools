@@ -1,3 +1,3 @@
 # <u>Holberton School</u>
 
-- 0x05. shell permissions
+- 0x06. shell redirection
