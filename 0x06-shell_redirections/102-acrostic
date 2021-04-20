@@ -1,0 +1,2 @@
+#!/bin/bash
+cut -c -3 12-newest_files | tr -d "\n" | tr [:lower:] [:upper:]
